@@ -1,0 +1,6 @@
+@import url(./index.css);
+@import url(./form.css);
+
+@import url(./catalog/catalog_mobile.css);
+@import url(./catalog/catalog_table.css);
+@import url(./catalog/catalog_desctop.css);
