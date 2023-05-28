@@ -408,11 +408,21 @@ input[type=checkbox]:not(:disabled):not(:checked)+label:hover::before  {
 
 }
 
-.html-promo > a{
+.my-promo > a{
     font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 18px;
     color: #444444;
+}
+
+.my-promo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.my-promo:hover {
+    opacity: 0.3;
 }

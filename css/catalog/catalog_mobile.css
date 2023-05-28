@@ -247,3 +247,13 @@ html{
     justify-content: center;
     background: #F2F2F2;
 }
+
+.my-promo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.my-promo:hover {
+    opacity: 0.3;
+}

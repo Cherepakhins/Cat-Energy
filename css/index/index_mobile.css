@@ -630,16 +630,13 @@ footer > .section{
     opacity: 0.3;
 }
 
-.html-promo {
+.my-promo {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.html-promo:hover {
-    stroke: #68B738;
-}
-
-.html-promo:active {
+.my-promo:hover {
     opacity: 0.3;
 }
+
